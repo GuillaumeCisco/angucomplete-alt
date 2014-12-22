@@ -62,7 +62,7 @@ var app = angular.module('app', ["angucomplete-alt"]);
               search-fields="name"
               title-field="name"
               minlength="1"
-              input-class="form-control form-control-small"/>
+              input-class="form-control form-control-small"></angucomplete-alt>
 ```
 
 ### Remote Usage
@@ -77,7 +77,7 @@ var app = angular.module('app', ["angucomplete-alt"]);
               title-field="firstName,surname"
               description-field="email"
               image-field="profilePic"
-              input-class="form-control form-control-small"/>
+              input-class="form-control form-control-small"></angucomplete-alt>
 ```
 
 ### Description of attributes
